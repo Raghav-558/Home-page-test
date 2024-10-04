@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+.el-messiri {
+    font-family: "El Messiri", sans-serif;
+}
+
+.lato {
+    font-family: "Lato", sans-serif;
+}
+
+.text-40 {
+    font-size: 40px;
+}
+
+.text-dark-blue {
+    color: #1B3353;
+}
+
+.bg-dark-blue {
+    background-color: #1B3353;
+}
+
+.sec-3-bg-image {
+    background-image: url("../images/section-3-bg-image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.profile-border {
+    border: 0.5px solid #1B335366;
+    border-radius: 12px;
+}
+
+.sec-7-bg-color {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(252, 252, 252, 1) 51%, 51%, rgba(27, 51, 83, 1) 52%, rgba(27, 51, 83, 1) 100%);
+}
+
+.pt-18 {
+    padding-top: 18px;
+}
+
+.pt-10 {
+    padding-top: 10px;
+}
+
+.mb-45 {
+    margin-bottom: 45px;
+}
+
+.footer-border {
+    border-top: 2px solid #FFFFFF;
+    opacity: 20%;
+}
